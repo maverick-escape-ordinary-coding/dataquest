@@ -2,7 +2,6 @@
 
 '''
 __author__ = Sanjay Seetharam
-__email__ = sanjayseetharam.hma@gmail.com
 __version__ = 2.0
 __status__ = complete
 __purpose__ = 
