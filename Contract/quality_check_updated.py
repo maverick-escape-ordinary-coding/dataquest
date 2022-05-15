@@ -1,7 +1,7 @@
 #!/usr/bin/env python3.9.4
 
 '''
-__author__ = Sanjay Seetharam
+__author__ = Sanjay 
 __version__ = 2.0
 __status__ = complete
 __purpose__ = 
@@ -25,17 +25,6 @@ Here if True, validation is successful
 'age_limit':<True><False>,
 date_format':<True><False>}
 Here if True, corresponding check failed
-
-__improvements__=
-1. If I had extra time, i could have used object oriented programming 
-to take advantage of inheritence and encapsulation 
-to maintain the code easily in the long run.
-2. I could have pushed code generalisation further by understanding
-theme of the clean data instead of inputing the columns 
-explicity based on the situation.
-3. In terms of quality checks, I noticed lot of additional issues
-that could be checked like Incorrect Age based on the DOB, 
-incorrect year, valid guid format.
 '''
 
 # Load Libraries
